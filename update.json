@@ -1,0 +1,13 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/narayanbalai100-a11y/FunTarget/releases/download/v1.1.0/FunTarget.apk",
+  "title": "New Update Available",
+  "message": "नया अपडेट उपलब्ध है।",
+  "forceUpdate": false,
+  "changes": [
+    "Improved Performance",
+    "Bug Fixes",
+    "New Features"
+  ]
+}
