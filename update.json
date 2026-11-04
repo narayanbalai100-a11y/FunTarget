@@ -1,11 +1,12 @@
 {
-  "versionCode": 100001,
+  "versionCode": 10000,
   "versionName": "1.0.0",
   "files": [
     {
       "path": "img/n0.png",
       "url": "https://raw.githubusercontent.com/narayanbalai100-a11y/FunTarget/main/n0.png",
-      "sha256": "1d10239fdd20adc32bed25174191bbf5b9488836d9aab21b0a54fa0b14c1abb6",
+      "sha256": "नई_IMAGE_का_64_अक्षरों_वाला_SHA256",
+      "baseSha256": "1d10239fdd20adc32bed25174191bbf5b9488836d9aab21b0a54fa0b14c1abb6",
       "size": 1594348
     }
   ]
